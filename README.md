@@ -1,4 +1,4 @@
-# Taiwanese Input Automation
+# Taiwanese Input Enhanced
  台語
  
  1. Predictive function:
